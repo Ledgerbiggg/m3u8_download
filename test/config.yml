@@ -1,0 +1,8 @@
+mu8:
+  #  请使用自己想要的m3u8的地址去替换url后面的配置
+  #  https://cdn1.xlzys.com/play/9b6BWALb/index.m3u8 新神榜杨戬
+  #  https://cdn.wlcdn99.com:777/69fcc1e2/index.m3u8 功夫熊猫
+  #  https://cdn.wlcdn99.com:777/4b868107/index.m3u8 周处除三害
+  url: https://cdn.wlcdn99.com:777/4b868107/index.m3u8
+  #下载ts文件的线程数
+  thread: 30
